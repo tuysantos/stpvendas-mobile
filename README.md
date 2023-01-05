@@ -1,1 +1,1 @@
-# stpvendas-mobile
+# stpvendas
